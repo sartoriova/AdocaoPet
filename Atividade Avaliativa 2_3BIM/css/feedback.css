@@ -1,0 +1,56 @@
+@font-face {
+    font-family: h1adote;
+    src: url("../fontes/BavariaGatesPersonalUse-8MdRg.otf");
+}
+
+h1{font-family: h1adote;
+    font-weight: bolder;
+    background-color: lightskyblue;
+    padding: 7px;}
+
+    fieldset {border: 5px solid palevioletred;
+    padding:10px;} 
+
+        hr{border: 2px solid lightskyblue;}   
+        
+form{text-align: center;
+}
+
+button{text-align: center;
+margin: 0px 0px 0px 20px;
+border-radius: 25px;
+padding: 10px 20px;
+font-size: 18px;
+font-weight: bolder;
+background-color: rgba(128, 128, 128, 0.137);
+color: black;
+}
+
+button:hover{background-color: black;
+color: white;}
+
+/* .container{background-image: url("../imagens.feedback/png_dog.png"); */
+/* background-repeat: no-repeat; */
+/* background-attachment: fixed; */
+/* background-size: 500px 300px;} */
+
+.divform{background-color: pink;
+height:330px;
+width: 700px;
+padding: 10px;
+float: right;
+color: black;
+margin-top: 50px;
+border-radius: 10px;
+font-style: italic;
+font-weight: bolder;
+box-shadow: 10px 30px 50px black}
+
+.divform:hover{font-size: 20px;
+height: 360px;
+box-shadow: 30px 30px 50px rgb(212, 54, 107); 
+}
+
+table{border: 5px solid;}
+
+

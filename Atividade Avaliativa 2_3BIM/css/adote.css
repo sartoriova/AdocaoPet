@@ -1,0 +1,318 @@
+@font-face {
+    font-family: h1adote;
+    src: url("../fontes/BavariaGatesPersonalUse-8MdRg.otf");
+}
+
+h1{font-family: h1adote;
+font-weight: bolder;
+background-color: lightskyblue;
+padding: 7px;}
+
+.container{
+display: grid;
+grid-template-columns: 424px 600px;
+grid-template-rows: 300px;
+gap:5px;}
+
+#imgyorkshire {text-align: center;
+grid-column: 1/2;
+grid-row: 1/2;}
+
+#h2yorkshire{text-align: center;
+grid-column: 2/3;
+grid-row: 1/2;}
+
+#pyorkshire{text-align:center;
+grid-column: 2/3;
+grid-row: 1/2;
+font-style: italic;
+font-weight: bolder;}
+
+#imgviralata {text-align: center;
+grid-column: 1/2;
+grid-row: 2/3;}
+    
+#h2viralata{text-align: center;
+grid-column: 2/3;
+grid-row: 2/3;}
+    
+#pviralata{text-align:center;
+grid-column: 2/3;
+grid-row: 2/3;
+font-style: italic;
+font-weight: bolder;}
+
+hr{border: 2px solid lightskyblue;}
+
+#imgshihtzu {text-align: center;
+grid-column: 1/2;
+grid-row: 3/4;
+}
+        
+#h2shihtzu{text-align: center;
+grid-column: 2/3;
+grid-row: 3/4;}
+        
+#pshihtzu{text-align:center;
+grid-column: 2/3;
+grid-row: 3/4;
+font-style: italic;
+font-weight: bolder;}
+
+#imgsalsicha {text-align: center;
+    grid-column: 1/2;
+    grid-row: 4/5;}
+            
+    #h2salsicha{text-align: center;
+    grid-column: 2/3;
+    grid-row: 4/5;}
+            
+    #psalsicha{text-align:center;
+    grid-column: 2/3;
+    grid-row: 4/5;
+    font-style: italic;
+    font-weight: bolder;}
+
+#imgrussell {text-align: center;
+    grid-column: 1/2;
+    grid-row: 5/6;}
+                
+    #h2russell{text-align: center;
+    grid-column: 2/3;
+    grid-row: 5/6;}
+                
+    #prussell{text-align:center;
+    grid-column: 2/3;
+    grid-row: 5/6;
+    font-style: italic;
+    font-weight: bolder;}
+
+    #imgpug {text-align: center;
+        grid-column: 1/2;
+        grid-row: 6/7;
+        }
+                
+        #h2pug{text-align: center;
+        grid-column: 2/3;
+        grid-row: 6/7;}
+                
+        #ppug{text-align:center;
+        grid-column: 2/3;
+        grid-row: 6/7;
+        font-style: italic;
+        font-weight: bolder;}
+
+#imgpoodle {text-align: center;
+grid-column: 1/2;
+grid-row: 7/8;
+}
+                    
+#h2poodle{text-align: center;
+grid-column: 2/3;
+grid-row: 7/8;}
+                    
+#ppoodle{text-align:center;
+grid-column: 2/3;
+grid-row: 7/8;
+font-style: italic;
+font-weight: bolder;}
+
+#imgpitbull {line-height:250px;
+    grid-column: 1/2;
+    grid-row: 8/9;
+    }
+                        
+    #h2pitbull{text-align: center;
+    grid-column: 2/3;
+    grid-row: 8/9;}
+                        
+    #ppitbull{text-align:center;
+    grid-column: 2/3;
+    grid-row: 8/9;
+    font-style: italic;
+    font-weight: bolder;}
+
+    #imgpinscher {text-align: center;
+        grid-column: 1/2;
+        grid-row: 9/10;
+        }
+                            
+        #h2pinscher{text-align: center;
+        grid-column: 2/3;
+        grid-row: 9/10;}
+                            
+        #ppinscher{text-align:center;
+        grid-column: 2/3;
+        grid-row: 9/10;
+        font-style: italic;
+        font-weight: bolder;}
+    
+        #imgpastoralemao {text-align: center;
+            grid-column: 1/2;
+            grid-row: 10/11;
+            }
+                                
+            #h2pastoralemao{text-align: center;
+            grid-column: 2/3;
+            grid-row: 10/11;}
+                                
+            #ppastoralemao{text-align:center;
+            grid-column: 2/3;
+            grid-row: 10/11;
+            font-style: italic;
+            font-weight: bolder;}
+
+#imglabrador {text-align: center;
+grid-column: 1/2;
+grid-row: 11/12;
+}
+                                    
+#h2labrador{text-align: center;
+grid-column: 2/3;
+grid-row: 11/12;}
+                                    
+#plabrador{text-align:center;
+grid-column: 2/3;
+grid-row: 11/12;
+font-style: italic;
+font-weight: bolder;}
+
+#imghusky {text-align: center;
+grid-column: 1/2;
+grid-row: 12/13;
+}
+                                        
+#h2husky{text-align: center;
+grid-column: 2/3;
+grid-row: 12/13;}
+                                        
+#phusky{text-align:center;
+grid-column: 2/3;
+grid-row: 12/13;
+font-style: italic;
+font-weight: bolder;}
+
+#imggolden {text-align: center;
+    grid-column: 1/2;
+    grid-row: 13/14;
+    }
+                                            
+    #h2golden{text-align: center;
+    grid-column: 2/3;
+    grid-row: 13/14;}
+                                            
+    #pgolden{text-align:center;
+    grid-column: 2/3;
+    grid-row: 13/14;
+    font-style: italic;
+    font-weight: bolder;}
+
+    #imgdoberman {text-align: center;
+        grid-column: 1/2;
+        grid-row: 14/15;
+        }
+                                                
+        #h2doberman{text-align: center;
+        grid-column: 2/3;
+        grid-row: 14/15;}
+                                                
+        #pdoberman{text-align:center;
+        grid-column: 2/3;
+        grid-row: 14/15;
+        font-style: italic;
+        font-weight: bolder;}
+
+#imgdalmata {text-align: center;
+grid-column: 1/2;
+grid-row: 15/16;
+}                                         
+
+#h2dalmata{text-align: center;
+grid-column: 2/3;
+grid-row: 15/16;}
+                                                    
+#pdalmata{text-align:center;
+grid-column: 2/3;
+grid-row: 15/16;
+font-style: italic;
+font-weight: bolder;}
+
+#imgshi {text-align: center;
+    grid-column: 1/2;
+    grid-row: 16/17;
+    }                                         
+    
+    #h2chi{text-align: center;
+    grid-column: 2/3;
+    grid-row: 16/17;}
+                                                        
+    #pchi{text-align:center;
+    grid-column: 2/3;
+    grid-row: 16/17;
+    font-style: italic;
+    font-weight: bolder;}
+
+    #imgbul {text-align: center;
+        grid-column: 1/2;
+        grid-row: 17/18;
+        }                                         
+        
+        #h2bul{text-align: center;
+        grid-column: 2/3;
+        grid-row: 17/18;}
+                                                            
+        #pbul{text-align:center;
+        grid-column: 2/3;
+        grid-row: 17/18;
+        font-style: italic;
+        font-weight: bolder;}
+
+        #imgborder {text-align: center;
+            grid-column: 1/2;
+            grid-row: 18/19;
+            }                                         
+            
+            #h2border{text-align: center;
+            grid-column: 2/3;
+            grid-row: 18/19;}
+                                                                
+            #pborder{text-align:center;
+            grid-column: 2/3;
+            grid-row: 18/19;
+            font-style: italic;
+            font-weight: bolder;}
+
+            #imgbeagle {text-align: center;
+                grid-column: 1/2;
+                grid-row: 19/20;
+                }                                         
+                
+                #h2beagle{text-align: center;
+                grid-column: 2/3;
+                grid-row: 19/20;}
+                                                                    
+                #pbeagle{text-align:center;
+                grid-column: 2/3;
+                grid-row: 19/20;
+                font-style: italic;
+                font-weight: bolder;}
+
+                #imgakita {text-align: center;
+                    grid-column: 1/2;
+                    grid-row: 20/21;
+                    }                                         
+                    
+                    #h2akita{text-align: center;
+                    grid-column: 2/3;
+                    grid-row: 20/21;}
+                                                                        
+                    #pakita{text-align:center;
+                    grid-column: 2/3;
+                    grid-row: 20/21;
+                    font-style: italic;
+                    font-weight: bolder;}
+
+footer{background-color: lightskyblue;
+text-align: center;
+padding: 20px;}
+

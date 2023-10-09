@@ -1,0 +1,17 @@
+.container{width:1350px;
+position: relative;
+}
+
+.container img{width:100%;}
+
+.texto{position:absolute;
+top:3%;
+left:-1%;
+transition: translate(-50%, -50%);
+text-align:center;
+background-color: rgba(0, 0, 0, 0.507);
+padding: 10px;
+color: white;
+font-style: italic;
+border: 5px solid lightskyblue;
+font-size: 17px;}

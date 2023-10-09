@@ -1,0 +1,20 @@
+@font-face {
+    font-family: logomarca;
+    src: url("../fontes/Headbears-jE4pl.ttf");
+}
+
+#logomarcaimagem {
+background-image: url("../imagens.index/logomarca2.png");
+background-position-y: bottom;
+background-position-x: right;
+background-repeat:no-repeat;
+background-size: 140px 140px;
+margin-right: 50px;
+}
+
+#logomarcatexto {font-family: logomarca;
+font-size: 50px;
+color: black;
+text-align: center;
+margin-left: 100px;}
+

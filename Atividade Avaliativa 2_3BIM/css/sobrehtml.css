@@ -1,0 +1,34 @@
+@font-face {
+    font-family: h1adote;
+    src: url("../fontes/BavariaGatesPersonalUse-8MdRg.otf");
+}
+
+h1{font-family: h1adote;
+    font-weight: bolder;
+    background-color: lightskyblue;
+    padding: 7px;}
+
+hr{border: 2px solid lightskyblue;}
+
+h2{font-family: h1adote;
+font-weight: bolder;
+background-color: firebrick;
+color: white;
+padding: 5px;
+margin-top: -40px;}
+
+#p{font-weight: bolder;
+font-size: 20px;}
+
+#img{margin-left:500px;
+border-radius: 10px;}
+
+#img2{margin-left: 270px;
+border-radius: 10px;}
+
+#img3{margin-left: 310px;
+border-radius: 10px;}
+
+figcaption{font-weight:bolder;
+font-size: 20px;
+font-style: italic;}
